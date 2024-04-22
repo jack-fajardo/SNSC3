@@ -1,2 +1,2 @@
-# SNSC3
-Testing
+# SNSC3 JE_SCRIPTS STORAGE
+# Only for testing

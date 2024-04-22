@@ -3,7 +3,7 @@
     ディックル村<end_line>
   </sjis>
 </location>
-
+#Deckell Village
 <location>
   <sjis>
     ディックル村　広場<end_line>
@@ -79,3 +79,6 @@
     take out all those Strays!<end_line>
   </ascii>
 </dialogue>
+
+
+

@@ -1,3 +1,7 @@
+- save button will only be enabled once you make a change. 
+- save button will not be enabled for uploaded xml files.
+- strict mode - validate all tags button uses fast-xml-parser library to validate
+
 <bigtext>
   <info box="nobox" effect="big">
   <sjis>

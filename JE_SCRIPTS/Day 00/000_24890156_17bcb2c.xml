@@ -1,6 +1,7 @@
 - save button will only be enabled once you make a change. 
 - save button will not be enabled for uploaded xml files.
 - strict mode - validate all tags button uses fast-xml-parser library to validate
+- debugger enables refetch file list button to refetch directory list above
 
 <bigtext>
   <info box="nobox" effect="big">

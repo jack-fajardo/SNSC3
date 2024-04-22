@@ -1,5 +1,5 @@
 <dialogue>
-  <partner name="run-dor">
+  <partner name="run-dor"> made some changes
   <info box="right">
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">

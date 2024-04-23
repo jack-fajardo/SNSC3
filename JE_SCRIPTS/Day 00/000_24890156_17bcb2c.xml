@@ -1,3 +1,7 @@
+- save button will only be enabled once you make a change. 
+- save button will not be enabled for uploaded xml files.
+- validate all tags button uses dom parser library to validate
+
 <bigtext>
   <info box="nobox" effect="big">
   <sjis>

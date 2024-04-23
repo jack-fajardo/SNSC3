@@ -1,6 +1,6 @@
 <dialogue>
   <partner name="run-dor">
-  <info box="right">
+  <info box="left">
   <portrait_l entry="player" eye="serious" mouth="neutral">
   <portrait_r entry="partner" eye="surprised" mouth="stressed">
   <sjis>
